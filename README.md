@@ -18,3 +18,5 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 - Non-Vine: 47%
 
 ## Summary
+
+There is a slight bias of Vine reviews to leave a 5 star rating as compared to nonVine reviews, however it was small only 7.5% higher. Further analysis on other product datasets would be needed to see if there is a pattern of Vine reviews being more likely to leave higher and 5 star ratings as compared to nonVine reviews. 
